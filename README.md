@@ -4,7 +4,7 @@ Made by Andrew, James, Paolo, Riley, Donald, Liam and Alfie.
 
 To get access to the code enter "Whack a Jam V4 bugs fixed". Then go into "Assets". Then "Scripts" There you have our code. 
 
-The destruction code handles the decustion of objects, 
+The destruction code handles the decustion of objects and the touch screen controlls, 
 
 Jamming holds a mechanic of have 1 of each ingient to get extra score, 
 
